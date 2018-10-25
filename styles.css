@@ -1,0 +1,34 @@
+body{
+    background-image: url('background-blur-bokeh-220067.jpg');
+}
+
+h1{
+    font-size: 40px;
+}
+
+.fluid-row{
+    color: white;
+    text-align: center;
+    margin: 5% 5% 5% 5%;
+}
+
+.btn{
+    margin-right: 1%;
+}
+
+.btn-container{
+    margin-top:5%;
+}
+
+.result-container {
+    margin-top: 5%;
+}
+
+
+#rules {
+    font-size: 25px;
+}
+
+.btn{
+    border-color: lightblue;
+}
