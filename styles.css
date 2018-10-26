@@ -15,7 +15,7 @@ h1{
 .btn-container .btn{
     margin-right: 0.5%;
     margin-left: 0.5%;
-    background-color: white;
+    /* background-color: white; */
 }
 
 .btn-container{
@@ -35,8 +35,8 @@ h1{
     font-size: 25px;
 }
 
-/* @media (max-width: 1200px){
+@media (max-width: 1200px){
     .btn {
         background-color:white;
     }
-} */
+}
