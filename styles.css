@@ -36,7 +36,7 @@ h1{
 }
 
 @media (max-width: 1200px){
-    .btn-container .btn {
+    .btn-container .btn, .restart {
         background-color:white;
     }
 }
