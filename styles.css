@@ -36,7 +36,7 @@ h1{
 }
 
 @media (max-width: 1200px){
-    .btn {
+    .btn-container .btn {
         background-color:white;
     }
 }
