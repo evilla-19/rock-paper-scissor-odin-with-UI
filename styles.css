@@ -12,8 +12,9 @@ h1{
     margin: 5% 5% 5% 5%;
 }
 
-.btn{
-    margin-right: 1%;
+.btn-container .btn{
+    margin-right: 0.5%;
+    margin-left: 0.5%;
 }
 
 .btn-container{
@@ -27,8 +28,4 @@ h1{
 
 #rules {
     font-size: 25px;
-}
-
-.btn{
-    border-color: lightblue;
 }
